@@ -7,3 +7,5 @@
 ## For the reader of AWL material
 
 The information contained herein represents my experience learning technology/skill X. It is not authoritative and should be taken with a grain of salt, but I hope it will prove useful nonetheless.
+
+You should, of course, consider this manifesto as AWL.
