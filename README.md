@@ -6,6 +6,8 @@
 
 ## For the reader of AWL material
 
-The information contained herein represents my experience learning technology/skill X. It is not authoritative and should be taken with a grain of salt, but I hope it will prove useful nonetheless.
+The information contained herein represents the author's experience learning technology/skill X. It is not authoritative and should be taken with a grain of salt, but the author hopes it will prove useful in your own pursuit.
 
-You should, of course, consider this manifesto as AWL.
+## Meta
+
+[This manifesto is, obviously, AWL](https://github.com/danburzo/as-we-learn).
