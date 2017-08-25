@@ -3,6 +3,7 @@
 1. Write things down as you learn them
 2. Some of the things will turn out to be wrong, and that's okay
 3. Edit constantly, as you learn more
+4. Everything is always WIP
 
 ## For the reader of AWL material
 
